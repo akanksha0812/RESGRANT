@@ -1,5 +1,5 @@
 # pukarr_SIH
 
-Welcome to ResGrant!
+Welcome to RESGRANT!
 
-We help students in providing research grants without taking any penny. We help them find suitable grants and scholarships to which they can apply. 
+Our website serves as a dynamic platform for researchers to connect with organizations that offer grants, helping to propel their work in their respective fields. It provides a dedicated space for researchers to showcase their work, increasing visibility and potentially attracting funding. The platform also features a robust resources section where researchers can access various materials to broaden their knowledge. Our aim is to streamline the often challenging process of securing grants, promoting collaboration, and fostering an environment of continuous learning for researchers around the globe.
